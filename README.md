@@ -1,1 +1,1 @@
-# Titanic-Eda
+# Titanic-EDA
